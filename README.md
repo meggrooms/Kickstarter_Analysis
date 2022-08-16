@@ -14,8 +14,7 @@ Louise approached me to analyze the viability of using a Kickstarter campaign to
 
 ## Outcomes Based on Goals
 
-[Please reference the Outcomes Based on Goals chart](https://github.com/meggrooms/Kickstarter_Analysis/commit/6d55ca6648ea7dc3814f47354944d393830127be)
-
+<img src="Outcomes_vs_Goals.png">
 
 In the Outcomes Based on Goals chart you’ll notice that the percentage of failed campaigns is inverse to the percentage of successful campaigns. Campaigns with more approachable levels of backer pledges have the highest success rate overall. We also see that despite getting several high-level pledges,they don’t quite make up for the amount of pledges at the lower level. 
 
@@ -25,7 +24,10 @@ Inversely, we see the exact opposite result when it comes to failed campaigns an
 
 ## Theater Outcomes Based on Launch Date
 
-[Please refer to the Outcomes Based on Launch Date chart](https://github.com/meggrooms/Kickstarter_Analysis/commit/ba1fef20761e6902a39faa22696e5be395610713)
+<img src="Theater_Outcomes_vs_Launch.png">
+
+
+
 
 This chart illustrates the best months to go live with Kickstarters catered toward plays. A few conclusions can be drawn here. First, the successful campaigns far outpaced the failed campaigns. 
 
