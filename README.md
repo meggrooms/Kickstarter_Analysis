@@ -16,9 +16,7 @@ Louise approached me to analyze the viability of using a Kickstarter campaign to
 
 <img src="Outcomes_vs_Goals.png">
 
-In the Outcomes Based on Goals chart you’ll notice that the percentage of failed campaigns is inverse to the percentage of successful campaigns. Campaigns with more approachable levels of backer pledges have the highest success rate overall. We also see that despite getting several high-level pledges,they don’t quite make up for the amount of pledges at the lower level. 
-
-Inversely, we see the exact opposite result when it comes to failed campaigns and their pledge levels. The results of this graph can help Louise set her goal expectations, and plan her pledge levels.
+In the Outcomes Based on Goals chart you’ll notice that the percentage of failed campaigns is inverse to the percentage of successful campaigns. Campaigns with more approachable levels of backer pledges have the highest success rate overall. We also see that despite getting several high-level pledges, they don’t quite make up for the amount of pledges at the lower level.  We see the exact opposite result when it comes to failed campaigns and their pledge levels. The results of this graph can help Louise set her goal expectations, and plan her pledge levels.
 
 
 
@@ -29,9 +27,7 @@ Inversely, we see the exact opposite result when it comes to failed campaigns an
 
 
 
-This chart illustrates the best months to go live with Kickstarters catered toward plays. A few conclusions can be drawn here. First, the successful campaigns far outpaced the failed campaigns. 
-
-Next we can tell that there is a very specific time of year when Kickstarters are very successful, late spring. The least likely someone is to back a campaign is around the winter holidays–presumably this is because people focus their spending elsewhere. 
+This chart illustrates the best months to go live with Kickstarters catered toward plays. A few conclusions can be drawn here. First, the successful campaigns far outpaced the failed campaigns. Next we can tell that there is a very specific time of year when Kickstarters are very successful, late spring. The least likely someone is to back a campaign is around the winter holidays–presumably this is because people focus their spending elsewhere. 
 
 Campaign failures follow a similar pattern but with less dramatic results. The chances of a campaign being canceled is minimal, with fewer than 10 cancellations for any month of the year. 
 
@@ -53,6 +49,7 @@ When it comes to Outcomes Based on Goals, I assessed that the number one contrib
 
 **There are some limitations in this dataset.** One of these being that there isn’t a lot of data as to when campaigns go live. It could be useful to include a chart showing the correlation between the pledge deadline and how long it took the campaign to actually go live as this would help Louise narrow down the time to begin the campaign even further.
 
-Another example of a limitation is that there is no comparison of the US results to those of other countries. There could be a chance that Louise could find more success in a neighboring country, or to seek a kickstarter think tank group out of another country. 
 
-As such, I suggest the inclusion of charts determining the time between pledges being collected and time to go live. I would also add a chart displaying the results of the US vs Mexico, Canada, and Great Britain. 
+I would also like to see a comparison of the location as it relates to the highest number of backers so Louise gets a clear picture of who her backers will be so she can cater her campaign to them.
+
+As such, I suggest the inclusion of charts determining the time between pledges being collected and time taken to go live, and anothjer comparing location of pledges to the highest percentage of the goal.
