@@ -1,2 +1,56 @@
 # Kickstarter_Analysis
-An analysis of viability of a Kickstarter Campaign
+A Viability Analysis of a Kickstarter Campaign
+
+
+## Overview of Louise’s Kickstart Evaluation
+
+Louise approached me to analyze the viability of using a Kickstarter campaign to generate funds for a play she would like to produce. I prepared a document with relevant data that will help Louise in her pursuit.
+
+###### _Note: As Louise is based in the United States, I used only data from the according subset._
+
+# Analysis and Challenges
+
+
+
+## Outcomes Based on Goals
+
+[Please reference the Outcomes Based on Goals chart](https://github.com/meggrooms/Kickstarter_Analysis/commit/6d55ca6648ea7dc3814f47354944d393830127be)
+
+
+In the Outcomes Based on Goals chart you’ll notice that the percentage of failed campaigns is inverse to the percentage of successful campaigns. Campaigns with more approachable levels of backer pledges have the highest success rate overall. We also see that despite getting several high-level pledges,they don’t quite make up for the amount of pledges at the lower level. 
+
+Inversely, we see the exact opposite result when it comes to failed campaigns and their pledge levels. The results of this graph can help Louise set her goal expectations, and plan her pledge levels.
+
+
+
+## Theater Outcomes Based on Launch Date
+
+[Please refer to the Outcomes Based on Launch Date chart](https://github.com/meggrooms/Kickstarter_Analysis/commit/ba1fef20761e6902a39faa22696e5be395610713)
+
+This chart illustrates the best months to go live with Kickstarters catered toward plays. A few conclusions can be drawn here. First, the successful campaigns far outpaced the failed campaigns. 
+
+Next we can tell that there is a very specific time of year when Kickstarters are very successful, late spring. The least likely someone is to back a campaign is around the winter holidays–presumably this is because people focus their spending elsewhere. 
+
+Campaign failures follow a similar pattern but with less dramatic results. The chances of a campaign being canceled is minimal, with fewer than 10 cancellations for any month of the year. 
+
+Using the information from the graphs Louise will be more able to determine which direction she should go.
+
+
+
+## Challenges	
+
+I encountered quite a few challenges while working on Louise’s project, mainly the steep learning curve of Excel. I made copious amounts of errors but I slowly worked each out as if it was a puzzle. I freed myself of time constraints so I could watch the lesson over again, as slowly as I needed to. I made liberal use of AskBCS, a very helpful tool.
+
+
+# Results
+
+Using the Theater Outcomes by Launch Date graph I conclude that one, the best time of year for a play Kickstarter to begin is late spring into early summer--It's also a very, very bad idea to start this type of campaign in December. The risk of canceled plays is low, fewer than 10 per month are canceled.
+
+When it comes to Outcomes Based on Goals, I assessed that the number one contributor to successful campaigns is a lower pledge. There is an uptick of pledges in the $35,000 top $45,000 pledge range, but despite this, it's not quite enough to exceed the collective strength of the smaller pledges.
+
+
+**There are some limitations in this dataset.** One of these being that there isn’t a lot of data as to when campaigns go live. It could be useful to include a chart showing the correlation between the pledge deadline and how long it took the campaign to actually go live as this would help Louise narrow down the time to begin the campaign even further.
+
+Another example of a limitation is that there is no comparison of the US results to those of other countries. There could be a chance that Louise could find more success in a neighboring country, or to seek a kickstarter think tank group out of another country. 
+
+As such, I suggest the inclusion of charts determining the time between pledges being collected and time to go live. I would also add a chart displaying the results of the US vs Mexico, Canada, and Great Britain. 
