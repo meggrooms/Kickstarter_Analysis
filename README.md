@@ -2,7 +2,7 @@
 A Viability Analysis of a Kickstarter Campaign
 
 
-## Overview of Louise’s Kickstart Evaluation
+## Overview of Louise’s Kickstarter Evaluation
 
 Louise approached me to analyze the viability of using a Kickstarter campaign to generate funds for a play she would like to produce. I prepared a document with relevant data that will help Louise in her pursuit.
 
