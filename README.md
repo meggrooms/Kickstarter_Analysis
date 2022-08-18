@@ -1,5 +1,5 @@
 # Kickstarter_Analysis
-A Viability Analysis of a Kickstarter Campaign
+Viability Analysis of a Kickstarter Campaign
 
 
 ## Overview of Louise’s Kickstarter Evaluation
